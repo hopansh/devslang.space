@@ -1,0 +1,847 @@
+{
+  "generated_at": "2025-01-01",
+  "total_terms": 84,
+  "schema_version": "1.0",
+  "terms": [
+    {
+      "slug": "agentic-loop",
+      "name": "Agentic Loop",
+      "category": "ai-llm",
+      "difficulty": "x",
+      "difficulty_label": "X \u2014 10x",
+      "heat": 85,
+      "status": "blazing",
+      "filepath": "terms/ai-llm/agentic-loop.md"
+    },
+    {
+      "slug": "context-window",
+      "name": "Context Window",
+      "category": "ai-llm",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 78,
+      "status": "solid",
+      "filepath": "terms/ai-llm/context-window.md"
+    },
+    {
+      "slug": "fine-tuning",
+      "name": "Fine-tuning",
+      "category": "ai-llm",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 67,
+      "status": "solid",
+      "filepath": "terms/ai-llm/fine-tuning.md"
+    },
+    {
+      "slug": "grounding",
+      "name": "Grounding",
+      "category": "ai-llm",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 64,
+      "status": "solid",
+      "filepath": "terms/ai-llm/grounding.md"
+    },
+    {
+      "slug": "hallucination",
+      "name": "Hallucination",
+      "category": "ai-llm",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 88,
+      "status": "blazing",
+      "filepath": "terms/ai-llm/hallucination.md"
+    },
+    {
+      "slug": "prompt-injection",
+      "name": "Prompt Injection",
+      "category": "ai-llm",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 76,
+      "status": "rising",
+      "filepath": "terms/ai-llm/prompt-injection.md"
+    },
+    {
+      "slug": "rag",
+      "name": "RAG",
+      "category": "ai-llm",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 91,
+      "status": "blazing",
+      "filepath": "terms/ai-llm/rag.md"
+    },
+    {
+      "slug": "vibe-coding",
+      "name": "Vibe Coding",
+      "category": "ai-llm",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 97,
+      "status": "blazing",
+      "filepath": "terms/ai-llm/vibe-coding.md"
+    },
+    {
+      "slug": "api-contract",
+      "name": "API Contract",
+      "category": "apis-communication",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 64,
+      "status": "solid",
+      "filepath": "terms/apis-communication/api-contract.md"
+    },
+    {
+      "slug": "versioning-api",
+      "name": "API Versioning",
+      "category": "apis-communication",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 61,
+      "status": "solid",
+      "filepath": "terms/apis-communication/versioning-api.md"
+    },
+    {
+      "slug": "backward-compatible",
+      "name": "Backward Compatible",
+      "category": "apis-communication",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 70,
+      "status": "solid",
+      "filepath": "terms/apis-communication/backward-compatible.md"
+    },
+    {
+      "slug": "breaking-change",
+      "name": "Breaking Change",
+      "category": "apis-communication",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 72,
+      "status": "solid",
+      "filepath": "terms/apis-communication/breaking-change.md"
+    },
+    {
+      "slug": "forward-compatible",
+      "name": "Forward Compatible",
+      "category": "apis-communication",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 48,
+      "status": "solid",
+      "filepath": "terms/apis-communication/forward-compatible.md"
+    },
+    {
+      "slug": "idempotent",
+      "name": "Idempotent",
+      "category": "apis-communication",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 79,
+      "status": "blazing",
+      "filepath": "terms/apis-communication/idempotent.md"
+    },
+    {
+      "slug": "long-polling",
+      "name": "Long Polling",
+      "category": "apis-communication",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 49,
+      "status": "legacy",
+      "filepath": "terms/apis-communication/long-polling.md"
+    },
+    {
+      "slug": "pagination",
+      "name": "Pagination",
+      "category": "apis-communication",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 66,
+      "status": "classic",
+      "filepath": "terms/apis-communication/pagination.md"
+    },
+    {
+      "slug": "polling",
+      "name": "Polling",
+      "category": "apis-communication",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 55,
+      "status": "classic",
+      "filepath": "terms/apis-communication/polling.md"
+    },
+    {
+      "slug": "rate-limiting",
+      "name": "Rate Limiting",
+      "category": "apis-communication",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 73,
+      "status": "solid",
+      "filepath": "terms/apis-communication/rate-limiting.md"
+    },
+    {
+      "slug": "webhook",
+      "name": "Webhook",
+      "category": "apis-communication",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 75,
+      "status": "solid",
+      "filepath": "terms/apis-communication/webhook.md"
+    },
+    {
+      "slug": "cqrs",
+      "name": "CQRS",
+      "category": "architecture-patterns",
+      "difficulty": "x",
+      "difficulty_label": "X \u2014 10x",
+      "heat": 44,
+      "status": "deep-lore",
+      "filepath": "terms/architecture-patterns/cqrs.md"
+    },
+    {
+      "slug": "event-sourcing",
+      "name": "Event Sourcing",
+      "category": "architecture-patterns",
+      "difficulty": "x",
+      "difficulty_label": "X \u2014 10x",
+      "heat": 47,
+      "status": "deep-lore",
+      "filepath": "terms/architecture-patterns/event-sourcing.md"
+    },
+    {
+      "slug": "hexagonal-architecture",
+      "name": "Hexagonal Architecture",
+      "category": "architecture-patterns",
+      "difficulty": "x",
+      "difficulty_label": "X \u2014 10x",
+      "heat": 41,
+      "status": "deep-lore",
+      "filepath": "terms/architecture-patterns/hexagonal-architecture.md"
+    },
+    {
+      "slug": "mvc-pattern",
+      "name": "MVC Pattern",
+      "category": "architecture-patterns",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 68,
+      "status": "classic",
+      "filepath": "terms/architecture-patterns/mvc-pattern.md"
+    },
+    {
+      "slug": "mvp",
+      "name": "MVP",
+      "category": "architecture-patterns",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 81,
+      "status": "blazing",
+      "filepath": "terms/architecture-patterns/mvp.md"
+    },
+    {
+      "slug": "microservices",
+      "name": "Microservices",
+      "category": "architecture-patterns",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 77,
+      "status": "solid",
+      "filepath": "terms/architecture-patterns/microservices.md"
+    },
+    {
+      "slug": "modular-monolith",
+      "name": "Modular Monolith",
+      "category": "architecture-patterns",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 58,
+      "status": "rising",
+      "filepath": "terms/architecture-patterns/modular-monolith.md"
+    },
+    {
+      "slug": "monolith",
+      "name": "Monolith",
+      "category": "architecture-patterns",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 65,
+      "status": "classic",
+      "filepath": "terms/architecture-patterns/monolith.md"
+    },
+    {
+      "slug": "monorepo",
+      "name": "Monorepo",
+      "category": "architecture-patterns",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 74,
+      "status": "solid",
+      "filepath": "terms/architecture-patterns/monorepo.md"
+    },
+    {
+      "slug": "polyrepo",
+      "name": "Polyrepo",
+      "category": "architecture-patterns",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 52,
+      "status": "solid",
+      "filepath": "terms/architecture-patterns/polyrepo.md"
+    },
+    {
+      "slug": "saga-pattern",
+      "name": "Saga Pattern",
+      "category": "architecture-patterns",
+      "difficulty": "x",
+      "difficulty_label": "X \u2014 10x",
+      "heat": 39,
+      "status": "deep-lore",
+      "filepath": "terms/architecture-patterns/saga-pattern.md"
+    },
+    {
+      "slug": "strangler-fig-pattern",
+      "name": "Strangler Fig Pattern",
+      "category": "architecture-patterns",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 53,
+      "status": "solid",
+      "filepath": "terms/architecture-patterns/strangler-fig-pattern.md"
+    },
+    {
+      "slug": "code-smell",
+      "name": "Code Smell",
+      "category": "code-quality",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 62,
+      "status": "solid",
+      "filepath": "terms/code-quality/code-smell.md"
+    },
+    {
+      "slug": "cyclomatic-complexity",
+      "name": "Cyclomatic Complexity",
+      "category": "code-quality",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 45,
+      "status": "solid",
+      "filepath": "terms/code-quality/cyclomatic-complexity.md"
+    },
+    {
+      "slug": "dry",
+      "name": "DRY",
+      "category": "code-quality",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 71,
+      "status": "classic",
+      "filepath": "terms/code-quality/dry.md"
+    },
+    {
+      "slug": "defensive-programming",
+      "name": "Defensive Programming",
+      "category": "code-quality",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 52,
+      "status": "solid",
+      "filepath": "terms/code-quality/defensive-programming.md"
+    },
+    {
+      "slug": "linting",
+      "name": "Linting",
+      "category": "code-quality",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 58,
+      "status": "classic",
+      "filepath": "terms/code-quality/linting.md"
+    },
+    {
+      "slug": "refactoring",
+      "name": "Refactoring",
+      "category": "code-quality",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 60,
+      "status": "classic",
+      "filepath": "terms/code-quality/refactoring.md"
+    },
+    {
+      "slug": "rubber-duck-debugging",
+      "name": "Rubber Duck Debugging",
+      "category": "code-quality",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 69,
+      "status": "classic",
+      "filepath": "terms/code-quality/rubber-duck-debugging.md"
+    },
+    {
+      "slug": "solid",
+      "name": "SOLID",
+      "category": "code-quality",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 54,
+      "status": "classic",
+      "filepath": "terms/code-quality/solid.md"
+    },
+    {
+      "slug": "technical-debt",
+      "name": "Technical Debt",
+      "category": "code-quality",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 78,
+      "status": "blazing",
+      "filepath": "terms/code-quality/technical-debt.md"
+    },
+    {
+      "slug": "yagni",
+      "name": "YAGNI",
+      "category": "code-quality",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 57,
+      "status": "solid",
+      "filepath": "terms/code-quality/yagni.md"
+    },
+    {
+      "slug": "10x-developer",
+      "name": "10x Developer",
+      "category": "culture-career",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 66,
+      "status": "solid",
+      "filepath": "terms/culture-career/10x-developer.md"
+    },
+    {
+      "slug": "bikeshedding",
+      "name": "Bikeshedding",
+      "category": "culture-career",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 73,
+      "status": "solid",
+      "filepath": "terms/culture-career/bikeshedding.md"
+    },
+    {
+      "slug": "brownfield",
+      "name": "Brownfield",
+      "category": "culture-career",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 58,
+      "status": "classic",
+      "filepath": "terms/culture-career/brownfield.md"
+    },
+    {
+      "slug": "bus-factor",
+      "name": "Bus Factor",
+      "category": "culture-career",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 68,
+      "status": "solid",
+      "filepath": "terms/culture-career/bus-factor.md"
+    },
+    {
+      "slug": "greenfield",
+      "name": "Greenfield",
+      "category": "culture-career",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 64,
+      "status": "classic",
+      "filepath": "terms/culture-career/greenfield.md"
+    },
+    {
+      "slug": "hippo-effect",
+      "name": "HiPPO Effect",
+      "category": "culture-career",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 69,
+      "status": "solid",
+      "filepath": "terms/culture-career/hippo-effect.md"
+    },
+    {
+      "slug": "rubber-stamping",
+      "name": "Rubber Stamping",
+      "category": "culture-career",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 56,
+      "status": "solid",
+      "filepath": "terms/culture-career/rubber-stamping.md"
+    },
+    {
+      "slug": "spaghetti-code",
+      "name": "Spaghetti Code",
+      "category": "culture-career",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 75,
+      "status": "classic",
+      "filepath": "terms/culture-career/spaghetti-code.md"
+    },
+    {
+      "slug": "yak-shaving",
+      "name": "Yak Shaving",
+      "category": "culture-career",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 71,
+      "status": "solid",
+      "filepath": "terms/culture-career/yak-shaving.md"
+    },
+    {
+      "slug": "denormalization",
+      "name": "Denormalization",
+      "category": "data-state",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 58,
+      "status": "solid",
+      "filepath": "terms/data-state/denormalization.md"
+    },
+    {
+      "slug": "eventual-consistency",
+      "name": "Eventual Consistency",
+      "category": "data-state",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 63,
+      "status": "solid",
+      "filepath": "terms/data-state/eventual-consistency.md"
+    },
+    {
+      "slug": "migration",
+      "name": "Migration",
+      "category": "data-state",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 65,
+      "status": "classic",
+      "filepath": "terms/data-state/migration.md"
+    },
+    {
+      "slug": "n-plus-one-problem",
+      "name": "N+1 Problem",
+      "category": "data-state",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 75,
+      "status": "solid",
+      "filepath": "terms/data-state/n-plus-one-problem.md"
+    },
+    {
+      "slug": "normalization",
+      "name": "Normalization",
+      "category": "data-state",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 55,
+      "status": "classic",
+      "filepath": "terms/data-state/normalization.md"
+    },
+    {
+      "slug": "orm",
+      "name": "ORM",
+      "category": "data-state",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 70,
+      "status": "classic",
+      "filepath": "terms/data-state/orm.md"
+    },
+    {
+      "slug": "optimistic-update",
+      "name": "Optimistic Update",
+      "category": "data-state",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 66,
+      "status": "solid",
+      "filepath": "terms/data-state/optimistic-update.md"
+    },
+    {
+      "slug": "race-condition",
+      "name": "Race Condition",
+      "category": "data-state",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 69,
+      "status": "solid",
+      "filepath": "terms/data-state/race-condition.md"
+    },
+    {
+      "slug": "seeding",
+      "name": "Seeding",
+      "category": "data-state",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 53,
+      "status": "classic",
+      "filepath": "terms/data-state/seeding.md"
+    },
+    {
+      "slug": "blue-green-deployment",
+      "name": "Blue-Green Deployment",
+      "category": "devx-workflow",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 51,
+      "status": "solid",
+      "filepath": "terms/devx-workflow/blue-green-deployment.md"
+    },
+    {
+      "slug": "ci-cd",
+      "name": "CI/CD",
+      "category": "devx-workflow",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 80,
+      "status": "blazing",
+      "filepath": "terms/devx-workflow/ci-cd.md"
+    },
+    {
+      "slug": "canary-deployment",
+      "name": "Canary Deployment",
+      "category": "devx-workflow",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 60,
+      "status": "solid",
+      "filepath": "terms/devx-workflow/canary-deployment.md"
+    },
+    {
+      "slug": "feature-flag",
+      "name": "Feature Flag",
+      "category": "devx-workflow",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 70,
+      "status": "solid",
+      "filepath": "terms/devx-workflow/feature-flag.md"
+    },
+    {
+      "slug": "hot-reload",
+      "name": "Hot Reload",
+      "category": "devx-workflow",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 62,
+      "status": "classic",
+      "filepath": "terms/devx-workflow/hot-reload.md"
+    },
+    {
+      "slug": "scaffolding",
+      "name": "Scaffolding",
+      "category": "devx-workflow",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 54,
+      "status": "classic",
+      "filepath": "terms/devx-workflow/scaffolding.md"
+    },
+    {
+      "slug": "semantic-versioning",
+      "name": "Semantic Versioning",
+      "category": "devx-workflow",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 63,
+      "status": "solid",
+      "filepath": "terms/devx-workflow/semantic-versioning.md"
+    },
+    {
+      "slug": "bundler",
+      "name": "Bundler",
+      "category": "frontend-build",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 67,
+      "status": "classic",
+      "filepath": "terms/frontend-build/bundler.md"
+    },
+    {
+      "slug": "csr",
+      "name": "CSR",
+      "category": "frontend-build",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 60,
+      "status": "solid",
+      "filepath": "terms/frontend-build/csr.md"
+    },
+    {
+      "slug": "code-splitting",
+      "name": "Code Splitting",
+      "category": "frontend-build",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 61,
+      "status": "solid",
+      "filepath": "terms/frontend-build/code-splitting.md"
+    },
+    {
+      "slug": "component-factory",
+      "name": "Component Factory",
+      "category": "frontend-build",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 38,
+      "status": "deep-lore",
+      "filepath": "terms/frontend-build/component-factory.md"
+    },
+    {
+      "slug": "hydration",
+      "name": "Hydration",
+      "category": "frontend-build",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 71,
+      "status": "solid",
+      "filepath": "terms/frontend-build/hydration.md"
+    },
+    {
+      "slug": "lazy-loading",
+      "name": "Lazy Loading",
+      "category": "frontend-build",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 64,
+      "status": "classic",
+      "filepath": "terms/frontend-build/lazy-loading.md"
+    },
+    {
+      "slug": "minification",
+      "name": "Minification",
+      "category": "frontend-build",
+      "difficulty": "n",
+      "difficulty_label": "N \u2014 Newbie",
+      "heat": 58,
+      "status": "classic",
+      "filepath": "terms/frontend-build/minification.md"
+    },
+    {
+      "slug": "ssr",
+      "name": "SSR",
+      "category": "frontend-build",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 74,
+      "status": "solid",
+      "filepath": "terms/frontend-build/ssr.md"
+    },
+    {
+      "slug": "source-map",
+      "name": "Source Map",
+      "category": "frontend-build",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 50,
+      "status": "solid",
+      "filepath": "terms/frontend-build/source-map.md"
+    },
+    {
+      "slug": "tree-shaking",
+      "name": "Tree Shaking",
+      "category": "frontend-build",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 56,
+      "status": "solid",
+      "filepath": "terms/frontend-build/tree-shaking.md"
+    },
+    {
+      "slug": "cache-invalidation",
+      "name": "Cache Invalidation",
+      "category": "performance-reliability",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 73,
+      "status": "blazing",
+      "filepath": "terms/performance-reliability/cache-invalidation.md"
+    },
+    {
+      "slug": "circuit-breaker",
+      "name": "Circuit Breaker",
+      "category": "performance-reliability",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 56,
+      "status": "solid",
+      "filepath": "terms/performance-reliability/circuit-breaker.md"
+    },
+    {
+      "slug": "cold-start",
+      "name": "Cold Start",
+      "category": "performance-reliability",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 67,
+      "status": "solid",
+      "filepath": "terms/performance-reliability/cold-start.md"
+    },
+    {
+      "slug": "debounce",
+      "name": "Debounce",
+      "category": "performance-reliability",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 72,
+      "status": "solid",
+      "filepath": "terms/performance-reliability/debounce.md"
+    },
+    {
+      "slug": "graceful-degradation",
+      "name": "Graceful Degradation",
+      "category": "performance-reliability",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 59,
+      "status": "solid",
+      "filepath": "terms/performance-reliability/graceful-degradation.md"
+    },
+    {
+      "slug": "p99-latency",
+      "name": "P99 Latency",
+      "category": "performance-reliability",
+      "difficulty": "s",
+      "difficulty_label": "S \u2014 Senior",
+      "heat": 61,
+      "status": "solid",
+      "filepath": "terms/performance-reliability/p99-latency.md"
+    },
+    {
+      "slug": "retry-with-backoff",
+      "name": "Retry with Backoff",
+      "category": "performance-reliability",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 64,
+      "status": "solid",
+      "filepath": "terms/performance-reliability/retry-with-backoff.md"
+    },
+    {
+      "slug": "throttle",
+      "name": "Throttle",
+      "category": "performance-reliability",
+      "difficulty": "m",
+      "difficulty_label": "M \u2014 Mid",
+      "heat": 68,
+      "status": "solid",
+      "filepath": "terms/performance-reliability/throttle.md"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+name: Build Articles JSON
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'articles/**'
+      - 'build.js'
+  workflow_dispatch: # Allows you to trigger this manually from the GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push the compiled JSON back
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run build script
+        run: node build.js
+
+      - name: Commit and Push dist/articles.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/articles.json
+          git diff-index --quiet HEAD || (git commit -m "chore: auto-compile articles.json [skip ci]" && git push)
