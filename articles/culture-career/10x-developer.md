@@ -2,8 +2,6 @@
 slug: 10x-developer
 name: 10x Developer
 category: culture-career
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 66
 status: solid
 born: "~1968 (research origin) / ~2010s (meme status)"

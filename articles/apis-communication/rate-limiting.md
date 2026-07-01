@@ -2,8 +2,6 @@
 slug: rate-limiting
 name: Rate Limiting
 category: apis-communication
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 73
 status: solid
 born: "~1990s"

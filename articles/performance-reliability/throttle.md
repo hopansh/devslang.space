@@ -2,8 +2,6 @@
 slug: throttle
 name: Throttle
 category: performance-reliability
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 68
 status: solid
 born: "~2000s"

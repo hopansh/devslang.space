@@ -2,8 +2,6 @@
 slug: long-polling
 name: Long Polling
 category: apis-communication
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 49
 status: legacy
 born: "~2006"

@@ -2,8 +2,6 @@
 slug: hydration
 name: Hydration
 category: frontend-build
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 71
 status: solid
 born: "~2013 (React early SSR efforts)"

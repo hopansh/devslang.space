@@ -2,8 +2,6 @@
 slug: scaffolding
 name: Scaffolding
 category: devx-workflow
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 54
 status: classic
 born: "~2000s"

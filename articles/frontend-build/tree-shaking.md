@@ -2,8 +2,6 @@
 slug: tree-shaking
 name: Tree Shaking
 category: frontend-build
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 56
 status: solid
 born: "~2015 (popularized by Rollup)"

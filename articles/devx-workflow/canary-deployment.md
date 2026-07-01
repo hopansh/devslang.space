@@ -2,8 +2,6 @@
 slug: canary-deployment
 name: Canary Deployment
 category: devx-workflow
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 60
 status: solid
 born: "~2010s"

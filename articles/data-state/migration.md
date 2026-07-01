@@ -2,8 +2,6 @@
 slug: migration
 name: Migration
 category: data-state
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 65
 status: classic
 born: "~1990s"

@@ -2,8 +2,6 @@
 slug: ssr
 name: SSR
 category: frontend-build
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 74
 status: solid
 born: "~2010s (mainstream revival)"

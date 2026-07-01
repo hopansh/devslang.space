@@ -2,8 +2,6 @@
 slug: component-factory
 name: Component Factory
 category: frontend-build
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 38
 status: deep-lore
 born: "~2015 (React patterns era)"

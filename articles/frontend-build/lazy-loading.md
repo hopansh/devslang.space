@@ -2,8 +2,6 @@
 slug: lazy-loading
 name: Lazy Loading
 category: frontend-build
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 64
 status: classic
 born: "~2010s"

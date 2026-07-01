@@ -2,8 +2,6 @@
 slug: api-contract
 name: API Contract
 category: apis-communication
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 64
 status: solid
 born: "~2000s"

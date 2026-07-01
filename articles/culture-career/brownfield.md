@@ -2,8 +2,6 @@
 slug: brownfield
 name: Brownfield
 category: culture-career
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 58
 status: classic
 born: "~1990s (construction term, borrowed)"

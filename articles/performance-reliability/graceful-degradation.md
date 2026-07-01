@@ -2,8 +2,6 @@
 slug: graceful-degradation
 name: Graceful Degradation
 category: performance-reliability
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 59
 status: solid
 born: "~1990s"

@@ -2,8 +2,6 @@
 slug: defensive-programming
 name: Defensive Programming
 category: code-quality
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 52
 status: solid
 born: "~1970s"

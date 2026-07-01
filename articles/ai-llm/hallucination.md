@@ -2,8 +2,6 @@
 slug: hallucination
 name: Hallucination
 category: ai-llm
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 88
 status: blazing
 born: "~2020s"

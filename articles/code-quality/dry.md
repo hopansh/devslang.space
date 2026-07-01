@@ -2,8 +2,6 @@
 slug: dry
 name: DRY
 category: code-quality
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 71
 status: classic
 born: "~1999 (The Pragmatic Programmer)"

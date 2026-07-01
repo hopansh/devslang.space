@@ -2,8 +2,6 @@
 slug: csr
 name: CSR
 category: frontend-build
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 60
 status: solid
 born: "~2010s (SPA era)"

@@ -2,8 +2,6 @@
 slug: hippo-effect
 name: HiPPO Effect
 category: culture-career
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 69
 status: solid
 born: "~2000s (data-driven culture movement)"

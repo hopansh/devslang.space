@@ -2,8 +2,6 @@
 slug: code-smell
 name: Code Smell
 category: code-quality
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 62
 status: solid
 born: "~1990s (Kent Beck)"

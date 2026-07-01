@@ -2,8 +2,6 @@
 slug: debounce
 name: Debounce
 category: performance-reliability
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 72
 status: solid
 born: "~2000s"

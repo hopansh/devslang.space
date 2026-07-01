@@ -2,8 +2,6 @@
 slug: rag
 name: RAG
 category: ai-llm
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 91
 status: blazing
 born: "~2020 (paper) / ~2023 (mainstream adoption)"

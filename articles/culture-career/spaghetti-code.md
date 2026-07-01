@@ -2,8 +2,6 @@
 slug: spaghetti-code
 name: Spaghetti Code
 category: culture-career
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 75
 status: classic
 born: "~1970s"

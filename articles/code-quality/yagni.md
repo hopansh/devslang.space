@@ -2,8 +2,6 @@
 slug: yagni
 name: YAGNI
 category: code-quality
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 57
 status: solid
 born: "~1999 (Extreme Programming)"

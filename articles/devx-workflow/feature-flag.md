@@ -2,8 +2,6 @@
 slug: feature-flag
 name: Feature Flag
 category: devx-workflow
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 70
 status: solid
 born: "~2010s"

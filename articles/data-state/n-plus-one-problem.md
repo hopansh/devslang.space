@@ -2,8 +2,6 @@
 slug: n-plus-one-problem
 name: N+1 Problem
 category: data-state
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 75
 status: solid
 born: "~2000s (ORM era)"

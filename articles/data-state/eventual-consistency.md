@@ -2,8 +2,6 @@
 slug: eventual-consistency
 name: Eventual Consistency
 category: data-state
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 63
 status: solid
 born: "~1990s (distributed systems theory)"

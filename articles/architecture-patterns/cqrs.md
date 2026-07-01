@@ -2,8 +2,6 @@
 slug: cqrs
 name: CQRS
 category: architecture-patterns
-difficulty: x
-difficulty_label: "X — 10x"
 heat: 44
 status: deep-lore
 born: "~2010 (Greg Young)"

@@ -2,8 +2,6 @@
 slug: prompt-injection
 name: Prompt Injection
 category: ai-llm
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 76
 status: rising
 born: "~2022"

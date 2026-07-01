@@ -2,8 +2,6 @@
 slug: normalization
 name: Normalization
 category: data-state
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 55
 status: classic
 born: "~1970 (Edgar F. Codd)"

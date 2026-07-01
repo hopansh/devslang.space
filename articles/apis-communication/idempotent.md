@@ -2,8 +2,6 @@
 slug: idempotent
 name: Idempotent
 category: apis-communication
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 79
 status: blazing
 born: "~1960s (math) / ~2000s (web APIs)"

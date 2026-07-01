@@ -2,8 +2,6 @@
 slug: optimistic-update
 name: Optimistic Update
 category: data-state
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 66
 status: solid
 born: "~2010s"

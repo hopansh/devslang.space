@@ -2,8 +2,6 @@
 slug: p99-latency
 name: P99 Latency
 category: performance-reliability
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 61
 status: solid
 born: "~2000s"

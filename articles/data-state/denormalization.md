@@ -2,8 +2,6 @@
 slug: denormalization
 name: Denormalization
 category: data-state
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 58
 status: solid
 born: "~1990s"

@@ -2,8 +2,6 @@
 slug: context-window
 name: Context Window
 category: ai-llm
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 78
 status: solid
 born: "~2020s"

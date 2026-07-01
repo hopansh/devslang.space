@@ -2,8 +2,6 @@
 slug: breaking-change
 name: Breaking Change
 category: apis-communication
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 72
 status: solid
 born: "~1990s"

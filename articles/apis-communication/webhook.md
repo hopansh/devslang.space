@@ -2,8 +2,6 @@
 slug: webhook
 name: Webhook
 category: apis-communication
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 75
 status: solid
 born: "~2007"

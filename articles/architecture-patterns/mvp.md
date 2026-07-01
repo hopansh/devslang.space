@@ -2,8 +2,6 @@
 slug: mvp
 name: MVP
 category: architecture-patterns
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 81
 status: blazing
 born: "~2000s"

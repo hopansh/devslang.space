@@ -2,8 +2,6 @@
 slug: solid
 name: SOLID
 category: code-quality
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 54
 status: classic
 born: "~2000 (Robert C. Martin)"

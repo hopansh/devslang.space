@@ -2,8 +2,6 @@
 slug: forward-compatible
 name: Forward Compatible
 category: apis-communication
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 48
 status: solid
 born: "~1990s"

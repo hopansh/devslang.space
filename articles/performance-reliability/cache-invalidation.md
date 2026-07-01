@@ -2,8 +2,6 @@
 slug: cache-invalidation
 name: Cache Invalidation
 category: performance-reliability
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 73
 status: blazing
 born: "~1980s"

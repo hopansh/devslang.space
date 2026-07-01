@@ -2,8 +2,6 @@
 slug: linting
 name: Linting
 category: code-quality
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 58
 status: classic
 born: "~1978 (the original C lint tool)"

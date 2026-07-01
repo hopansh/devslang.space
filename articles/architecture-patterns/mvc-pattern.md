@@ -2,8 +2,6 @@
 slug: mvc-pattern
 name: MVC Pattern
 category: architecture-patterns
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 68
 status: classic
 born: "~1970s (mainstream web ~2000s)"

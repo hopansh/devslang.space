@@ -2,8 +2,6 @@
 slug: retry-with-backoff
 name: Retry with Backoff
 category: performance-reliability
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 64
 status: solid
 born: "~1990s (networking)"

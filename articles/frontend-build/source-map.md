@@ -2,8 +2,6 @@
 slug: source-map
 name: Source Map
 category: frontend-build
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 50
 status: solid
 born: "~2010 (Closure Compiler)"
