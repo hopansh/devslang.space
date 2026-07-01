@@ -2,8 +2,6 @@
 slug: agentic-loop
 name: Agentic Loop
 category: ai-llm
-difficulty: x
-difficulty_label: "X — 10x"
 heat: 85
 status: blazing
 born: "~2023"

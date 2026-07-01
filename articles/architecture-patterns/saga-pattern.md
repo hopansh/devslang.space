@@ -2,8 +2,6 @@
 slug: saga-pattern
 name: Saga Pattern
 category: architecture-patterns
-difficulty: x
-difficulty_label: "X — 10x"
 heat: 39
 status: deep-lore
 born: "~1987 (paper) / ~2015 (microservices context)"

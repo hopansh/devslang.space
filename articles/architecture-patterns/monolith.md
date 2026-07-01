@@ -2,8 +2,6 @@
 slug: monolith
 name: Monolith
 category: architecture-patterns
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 65
 status: classic
 born: "~1960s"

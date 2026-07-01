@@ -2,8 +2,6 @@
 slug: hot-reload
 name: Hot Reload
 category: devx-workflow
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 62
 status: classic
 born: "~2010s"

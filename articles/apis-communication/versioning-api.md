@@ -2,8 +2,6 @@
 slug: versioning-api
 name: API Versioning
 category: apis-communication
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 61
 status: solid
 born: "~2000s"

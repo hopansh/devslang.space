@@ -2,8 +2,6 @@
 slug: fine-tuning
 name: Fine-tuning
 category: ai-llm
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 67
 status: solid
 born: "~2018"

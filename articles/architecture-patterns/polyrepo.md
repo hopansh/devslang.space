@@ -2,8 +2,6 @@
 slug: polyrepo
 name: Polyrepo
 category: architecture-patterns
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 52
 status: solid
 born: "~2000s"

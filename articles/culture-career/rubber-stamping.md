@@ -2,8 +2,6 @@
 slug: rubber-stamping
 name: Rubber Stamping
 category: culture-career
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 56
 status: solid
 born: "~1990s"

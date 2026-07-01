@@ -2,8 +2,6 @@
 slug: monorepo
 name: Monorepo
 category: architecture-patterns
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 74
 status: solid
 born: "~2010s (popularised by Google/Meta)"

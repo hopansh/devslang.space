@@ -2,8 +2,6 @@
 slug: polling
 name: Polling
 category: apis-communication
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 55
 status: classic
 born: "~1980s"

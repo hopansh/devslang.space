@@ -2,8 +2,6 @@
 slug: modular-monolith
 name: Modular Monolith
 category: architecture-patterns
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 58
 status: rising
 born: "~2018 (rediscovered)"

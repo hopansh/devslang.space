@@ -2,8 +2,6 @@
 slug: technical-debt
 name: Technical Debt
 category: code-quality
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 78
 status: blazing
 born: "~1992 (Ward Cunningham)"

@@ -2,8 +2,6 @@
 slug: cold-start
 name: Cold Start
 category: performance-reliability
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 67
 status: solid
 born: "~2015 (serverless/Lambda era)"

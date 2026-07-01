@@ -2,8 +2,6 @@
 slug: minification
 name: Minification
 category: frontend-build
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 58
 status: classic
 born: "~2000s"

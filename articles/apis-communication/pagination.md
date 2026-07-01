@@ -2,8 +2,6 @@
 slug: pagination
 name: Pagination
 category: apis-communication
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 66
 status: classic
 born: "~1990s"

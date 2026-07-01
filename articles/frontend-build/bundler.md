@@ -2,8 +2,6 @@
 slug: bundler
 name: Bundler
 category: frontend-build
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 67
 status: classic
 born: "~2012 (Browserify) / ~2015 (Webpack)"

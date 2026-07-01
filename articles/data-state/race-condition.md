@@ -2,8 +2,6 @@
 slug: race-condition
 name: Race Condition
 category: data-state
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 69
 status: solid
 born: "~1950s (electronics) / ~1970s (software)"

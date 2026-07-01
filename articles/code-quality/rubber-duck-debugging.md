@@ -2,8 +2,6 @@
 slug: rubber-duck-debugging
 name: Rubber Duck Debugging
 category: code-quality
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 69
 status: classic
 born: "~1999 (The Pragmatic Programmer)"

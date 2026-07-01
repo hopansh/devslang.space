@@ -2,8 +2,6 @@
 slug: bikeshedding
 name: Bikeshedding
 category: culture-career
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 73
 status: solid
 born: "~1957 (Parkinson's Law of Triviality)"

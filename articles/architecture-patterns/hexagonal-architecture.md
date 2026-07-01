@@ -2,8 +2,6 @@
 slug: hexagonal-architecture
 name: Hexagonal Architecture
 category: architecture-patterns
-difficulty: x
-difficulty_label: "X — 10x"
 heat: 41
 status: deep-lore
 born: "~2005 (Alistair Cockburn)"

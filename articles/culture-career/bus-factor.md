@@ -2,8 +2,6 @@
 slug: bus-factor
 name: Bus Factor
 category: culture-career
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 68
 status: solid
 born: "~1990s"

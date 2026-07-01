@@ -2,8 +2,6 @@
 slug: microservices
 name: Microservices
 category: architecture-patterns
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 77
 status: solid
 born: "~2010s"

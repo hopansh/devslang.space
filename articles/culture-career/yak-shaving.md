@@ -2,8 +2,6 @@
 slug: yak-shaving
 name: Yak Shaving
 category: culture-career
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 71
 status: solid
 born: "~1990s (MIT AI Lab folklore)"

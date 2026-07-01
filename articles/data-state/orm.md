@@ -2,8 +2,6 @@
 slug: orm
 name: ORM
 category: data-state
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 70
 status: classic
 born: "~1990s"

@@ -2,8 +2,6 @@
 slug: vibe-coding
 name: Vibe Coding
 category: ai-llm
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 97
 status: blazing
 born: "~2025"

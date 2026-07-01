@@ -2,8 +2,6 @@
 slug: refactoring
 name: Refactoring
 category: code-quality
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 60
 status: classic
 born: "~1990s"

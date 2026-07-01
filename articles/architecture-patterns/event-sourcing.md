@@ -2,8 +2,6 @@
 slug: event-sourcing
 name: Event Sourcing
 category: architecture-patterns
-difficulty: x
-difficulty_label: "X — 10x"
 heat: 47
 status: deep-lore
 born: "~2010s"

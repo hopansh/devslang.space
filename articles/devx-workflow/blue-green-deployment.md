@@ -2,8 +2,6 @@
 slug: blue-green-deployment
 name: Blue-Green Deployment
 category: devx-workflow
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 51
 status: solid
 born: "~2010 (popularized by ThoughtWorks)"

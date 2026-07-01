@@ -2,8 +2,6 @@
 slug: grounding
 name: Grounding
 category: ai-llm
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 64
 status: solid
 born: "~2020s"

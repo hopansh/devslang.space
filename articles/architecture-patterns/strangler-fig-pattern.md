@@ -2,8 +2,6 @@
 slug: strangler-fig-pattern
 name: Strangler Fig Pattern
 category: architecture-patterns
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 53
 status: solid
 born: "~2004 (Martin Fowler)"

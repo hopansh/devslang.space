@@ -2,8 +2,6 @@
 slug: cyclomatic-complexity
 name: Cyclomatic Complexity
 category: code-quality
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 45
 status: solid
 born: "~1976 (Thomas McCabe)"

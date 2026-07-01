@@ -2,8 +2,6 @@
 slug: circuit-breaker
 name: Circuit Breaker
 category: performance-reliability
-difficulty: s
-difficulty_label: "S — Senior"
 heat: 56
 status: solid
 born: "~2007 (Michael Nygard, Release It!)"

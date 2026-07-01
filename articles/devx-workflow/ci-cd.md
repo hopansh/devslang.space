@@ -2,8 +2,6 @@
 slug: ci-cd
 name: CI/CD
 category: devx-workflow
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 80
 status: blazing
 born: "~2000s"

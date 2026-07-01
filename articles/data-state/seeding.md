@@ -2,8 +2,6 @@
 slug: seeding
 name: Seeding
 category: data-state
-difficulty: n
-difficulty_label: "N — Newbie"
 heat: 53
 status: classic
 born: "~1990s"

@@ -2,8 +2,6 @@
 slug: semantic-versioning
 name: Semantic Versioning
 category: devx-workflow
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 63
 status: solid
 born: "~2010 (Tom Preston-Werner)"

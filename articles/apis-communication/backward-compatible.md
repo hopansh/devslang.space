@@ -2,8 +2,6 @@
 slug: backward-compatible
 name: Backward Compatible
 category: apis-communication
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 70
 status: solid
 born: "~1980s"

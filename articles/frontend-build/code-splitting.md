@@ -2,8 +2,6 @@
 slug: code-splitting
 name: Code Splitting
 category: frontend-build
-difficulty: m
-difficulty_label: "M — Mid"
 heat: 61
 status: solid
 born: "~2015 (Webpack dynamic imports)"
