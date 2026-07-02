@@ -35,5 +35,5 @@ Writing code that handles the happy path is the easy part. Writing code that han
 
 ## related terms
 
-- [defensive-programming](article/defensive-programming)— the practice of coding beyond the happy path
-- [graceful-degradation](article/graceful-degradation) — what good unhappy-path handling looks like at the system level
+- [defensive-programming](/article/defensive-programming)— the practice of coding beyond the happy path
+- [graceful-degradation](/article/graceful-degradation) — what good unhappy-path handling looks like at the system level
