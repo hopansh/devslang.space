@@ -36,4 +36,4 @@ Any AI feature that processes untrusted input (user messages, scraped content, u
 
 ## related terms
 
-- [hallucination](./hallucination.md) — a different AI failure mode, often confused with this one
+- [hallucination](/article/hallucination) — a different AI failure mode, often confused with this one

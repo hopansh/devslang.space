@@ -40,5 +40,5 @@ At small scale it doesn't matter. At medium scale, polyrepos create version drif
 
 ## related terms
 
-- [polyrepo](./polyrepo.md) — the other side of the debate
-- [ci-cd](../devx-workflow/ci-cd.md) — monorepos make CI interesting
+- [polyrepo](/article/polyrepo) — the other side of the debate
+- [ci-cd](/article/ci-cd) — monorepos make CI interesting

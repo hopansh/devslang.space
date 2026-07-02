@@ -37,5 +37,5 @@ Without throttling, high-frequency events (scroll, resize, mousemove) can fire a
 
 ## related terms
 
-- [debounce](./debounce.md) — the related but distinctly different technique
-- [rate-limiting](../apis-communication/rate-limiting.md) — the server-side equivalent idea
+- [debounce](/article/debounce) — the related but distinctly different technique
+- [rate-limiting](/article/rate-limiting) — the server-side equivalent idea

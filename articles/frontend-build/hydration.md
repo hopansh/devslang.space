@@ -36,5 +36,5 @@ Hydration bugs are uniquely confusing because the page often looks fine — it's
 
 ## related terms
 
-- [ssr](./ssr.md) — hydration only exists because of this
-- [csr](./csr.md) — the alternative that skips hydration entirely
+- [ssr](/article/ssr) — hydration only exists because of this
+- [csr](/article/csr) — the alternative that skips hydration entirely

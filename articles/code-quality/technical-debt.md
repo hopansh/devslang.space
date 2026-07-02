@@ -37,5 +37,5 @@ Unmanaged technical debt compounds. A codebase with too much of it becomes slow 
 
 ## related terms
 
-- [refactoring](./refactoring.md) — how you pay debt down
-- [mvp](../architecture-patterns/mvp.md) — often the origin of intentional debt
+- [refactoring](/article/refactoring) — how you pay debt down
+- [mvp](/article/mvp) — often the origin of intentional debt

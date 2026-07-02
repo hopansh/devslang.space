@@ -36,4 +36,4 @@ If your serverless functions handle latency-sensitive traffic, cold starts can c
 
 ## related terms
 
-- [lazy-loading](../frontend-build/lazy-loading.md) — a different domain, same "wakes up slowly" theme
+- [lazy-loading](/article/lazy-loading) — a different domain, same "wakes up slowly" theme

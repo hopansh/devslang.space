@@ -36,5 +36,5 @@ Linting is one of the cheapest forms of automated code quality enforcement. It w
 
 ## related terms
 
-- [code-smell](./code-smell.md) — linters catch some smells automatically
-- [ci-cd](../devx-workflow/ci-cd.md) — where linting usually runs
+- [code-smell](/article/code-smell) — linters catch some smells automatically
+- [ci-cd](/article/ci-cd) — where linting usually runs

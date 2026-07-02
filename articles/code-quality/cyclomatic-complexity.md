@@ -36,5 +36,5 @@ High cyclomatic complexity means more bugs hide more easily and more test cases 
 
 ## related terms
 
-- [code-smell](./code-smell.md) — high complexity is a textbook smell
-- [refactoring](./refactoring.md) — the usual fix
+- [code-smell](/article/code-smell) — high complexity is a textbook smell
+- [refactoring](/article/refactoring) — the usual fix

@@ -37,5 +37,5 @@ Without rate limiting, a single misbehaving client can degrade service for every
 
 ## related terms
 
-- [circuit-breaker](../performance-reliability/circuit-breaker.md) — a related protective pattern
-- [retry-with-backoff](../performance-reliability/retry-with-backoff.md) — what well-behaved clients should do when rate limited
+- [circuit-breaker](/article/circuit-breaker) — a related protective pattern
+- [retry-with-backoff](/article/retry-with-backoff) — what well-behaved clients should do when rate limited

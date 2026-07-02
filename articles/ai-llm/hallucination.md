@@ -37,5 +37,5 @@ Hallucination is the central reason you can't blindly trust an LLM's output for 
 
 ## related terms
 
-- [rag](./rag.md) — one of the main mitigation strategies
-- [grounding](./grounding.md) — the broader fix this falls under
+- [rag](/article/rag) — one of the main mitigation strategies
+- [grounding](/article/grounding) — the broader fix this falls under

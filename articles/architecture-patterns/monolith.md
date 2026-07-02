@@ -37,5 +37,5 @@ Don't let the word scare you into premature architecture. Most things should sta
 
 ## related terms
 
-- [microservices](./microservices.md) — the thing everyone wants to migrate to
-- [modular-monolith](./modular-monolith.md) — the smart middle ground
+- [microservices](/article/microservices) — the thing everyone wants to migrate to
+- [modular-monolith](/article/modular-monolith) — the smart middle ground

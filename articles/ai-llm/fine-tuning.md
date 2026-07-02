@@ -36,4 +36,4 @@ Fine-tuning is a powerful but heavier, more expensive tool than most teams initi
 
 ## related terms
 
-- [rag](./rag.md) — often the better, cheaper first option for the same underlying problem
+- [rag](/article/rag) — often the better, cheaper first option for the same underlying problem

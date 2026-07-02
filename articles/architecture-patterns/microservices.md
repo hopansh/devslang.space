@@ -41,6 +41,6 @@ At massive scale with large teams, microservices enable independent deployments 
 
 ## related terms
 
-- [monolith](./monolith.md) — where most things should start
-- [strangler-fig-pattern](./strangler-fig-pattern.md) — how you migrate from a monolith
-- [saga-pattern](./saga-pattern.md) — what you need when transactions span services
+- [monolith](/article/monolith) — where most things should start
+- [strangler-fig-pattern](/article/strangler-fig-pattern) — how you migrate from a monolith
+- [saga-pattern](/article/saga-pattern) — what you need when transactions span services

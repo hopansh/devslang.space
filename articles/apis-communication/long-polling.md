@@ -36,5 +36,5 @@ It's a clever historical workaround, and recognizing it in a legacy codebase sav
 
 ## related terms
 
-- [polling](./polling.md) — the simpler, more wasteful version
-- [webhook](./webhook.md) — what eventually displaced it for most use cases
+- [polling](/article/polling) — the simpler, more wasteful version
+- [webhook](/article/webhook) — what eventually displaced it for most use cases

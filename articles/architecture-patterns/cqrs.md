@@ -38,5 +38,5 @@ At scale and in complex domains, mixing read and write concerns creates compromi
 
 ## related terms
 
-- [event-sourcing](./event-sourcing.md) — commonly paired with CQRS
-- [hexagonal-architecture](./hexagonal-architecture.md) — same era of thinking
+- [event-sourcing](/article/event-sourcing) — commonly paired with CQRS
+- [hexagonal-architecture](/article/hexagonal-architecture) — same era of thinking

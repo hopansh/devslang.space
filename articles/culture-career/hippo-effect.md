@@ -37,5 +37,5 @@ Naming the HiPPO effect explicitly gives teams a shared vocabulary to question d
 
 ## related terms
 
-- [bikeshedding](./bikeshedding.md) — a different meeting dysfunction, often present in the same rooms
-- [rubber-stamping](./rubber-stamping.md) — related surface-level agreement without real scrutiny
+- [bikeshedding](/article/bikeshedding) — a different meeting dysfunction, often present in the same rooms
+- [rubber-stamping](/article/rubber-stamping) — related surface-level agreement without real scrutiny

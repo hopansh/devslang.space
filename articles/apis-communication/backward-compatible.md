@@ -37,6 +37,6 @@ Breaking backward compatibility without warning is one of the fastest ways to ta
 
 ## related terms
 
-- [forward-compatible](./forward-compatible.md) — the harder, less common cousin
-- [breaking-change](./breaking-change.md) — what happens when you fail at this
-- [semantic-versioning](../devx-workflow/semantic-versioning.md) — how you signal compatibility
+- [forward-compatible](/article/forward-compatible) — the harder, less common cousin
+- [breaking-change](/article/breaking-change) — what happens when you fail at this
+- [semantic-versioning](/article/semantic-versioning) — how you signal compatibility

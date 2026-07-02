@@ -37,5 +37,5 @@ If you don't understand MVC, you'll write controllers that are 800 lines long an
 
 ## related terms
 
-- [monolith](./monolith.md) — MVC apps are often monolithic
-- [mvp](./mvp.md) — different kind of MVP, but you'll confuse them once
+- [monolith](/article/monolith) — MVC apps are often monolithic
+- [mvp](/article/mvp) — different kind of MVP, but you'll confuse them once

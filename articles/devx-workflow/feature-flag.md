@@ -36,5 +36,5 @@ Feature flags let you de-risk launches by controlling exposure gradually, and th
 
 ## related terms
 
-- [canary-deployment](./canary-deployment.md) — a similar gradual-rollout idea, at the infrastructure level instead of code level
-- [ci-cd](./ci-cd.md) — feature flags are commonly paired with continuous deployment
+- [canary-deployment](/article/canary-deployment) — a similar gradual-rollout idea, at the infrastructure level instead of code level
+- [ci-cd](/article/ci-cd) — feature flags are commonly paired with continuous deployment

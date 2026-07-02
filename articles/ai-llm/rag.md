@@ -38,6 +38,6 @@ Without RAG, an LLM's knowledge is frozen at training time and entirely generic.
 
 ## related terms
 
-- [hallucination](./hallucination.md) — the problem RAG is designed to reduce
-- [context-window](./context-window.md) — the constraint on how much retrieved content you can actually use
-- [grounding](./grounding.md) — the broader concept RAG is one implementation of
+- [hallucination](/article/hallucination) — the problem RAG is designed to reduce
+- [context-window](/article/context-window) — the constraint on how much retrieved content you can actually use
+- [grounding](/article/grounding) — the broader concept RAG is one implementation of

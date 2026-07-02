@@ -36,4 +36,4 @@ It's a genuinely effective debugging technique that costs nothing and requires n
 
 ## related terms
 
-- [bikeshedding](../culture-career/bikeshedding.md) — a different kind of talking-it-out, less productive
+- [bikeshedding](/article/bikeshedding) — a different kind of talking-it-out, less productive

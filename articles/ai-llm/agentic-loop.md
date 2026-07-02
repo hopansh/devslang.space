@@ -37,5 +37,5 @@ Agentic loops are the architecture behind the current wave of AI agents doing ge
 
 ## related terms
 
-- [context-window](./context-window.md) — a real constraint on how long an agentic loop can run before losing track of earlier steps
-- [prompt-injection](./prompt-injection.md) — a more dangerous risk once an agent has real tool access
+- [context-window](/article/context-window) — a real constraint on how long an agentic loop can run before losing track of earlier steps
+- [prompt-injection](/article/prompt-injection) — a more dangerous risk once an agent has real tool access

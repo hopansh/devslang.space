@@ -38,6 +38,6 @@ Nobody ships raw, unbundled source code to production. Understanding what your b
 
 ## related terms
 
-- [minification](./minification.md) — one of the things bundlers do
-- [tree-shaking](./tree-shaking.md) — another thing bundlers do
-- [code-splitting](./code-splitting.md) — yet another thing bundlers do
+- [minification](/article/minification) — one of the things bundlers do
+- [tree-shaking](/article/tree-shaking) — another thing bundlers do
+- [code-splitting](/article/code-splitting) — yet another thing bundlers do

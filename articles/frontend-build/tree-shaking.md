@@ -37,5 +37,5 @@ Without effective tree shaking, your bundle ships dead weight — code your user
 
 ## related terms
 
-- [bundler](./bundler.md) — where tree shaking happens
-- [code-splitting](./code-splitting.md) — a complementary optimization
+- [bundler](/article/bundler) — where tree shaking happens
+- [code-splitting](/article/code-splitting) — a complementary optimization

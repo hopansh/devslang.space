@@ -36,5 +36,5 @@ If you don't know your system is eventually consistent, you'll write code that a
 
 ## related terms
 
-- [optimistic-update](./optimistic-update.md) — a UI pattern that works around this gap
-- [cache-invalidation](./cache-invalidation.md) — a related staleness problem
+- [optimistic-update](/article/optimistic-update) — a UI pattern that works around this gap
+- [cache-invalidation](/article/cache-invalidation) — a related staleness problem

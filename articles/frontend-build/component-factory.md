@@ -36,4 +36,4 @@ Component factories are a legitimate, powerful pattern when you actually have co
 
 ## related terms
 
-- [hexagonal-architecture](../architecture-patterns/hexagonal-architecture.md) — similar instinct toward abstraction, different layer
+- [hexagonal-architecture](/article/hexagonal-architecture) — similar instinct toward abstraction, different layer

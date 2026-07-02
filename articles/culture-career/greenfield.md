@@ -36,5 +36,5 @@ Recognizing that greenfield freedom is temporary keeps you honest about the deci
 
 ## related terms
 
-- [brownfield](./brownfield.md) — the much more common reality most developers actually work in
-- [mvp](../architecture-patterns/mvp.md) — greenfield projects are often where MVP thinking applies most directly
+- [brownfield](/article/brownfield) — the much more common reality most developers actually work in
+- [mvp](/article/mvp) — greenfield projects are often where MVP thinking applies most directly

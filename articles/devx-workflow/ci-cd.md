@@ -37,6 +37,6 @@ Without CI/CD, every deploy is a manual, error-prone, anxiety-inducing event. Wi
 
 ## related terms
 
-- [feature-flag](./feature-flag.md) — often used alongside CD to control what's actually live
-- [canary-deployment](./canary-deployment.md) — a deployment strategy built on top of CD
-- [linting](../code-quality/linting.md) — usually one of the first steps in a CI pipeline
+- [feature-flag](/article/feature-flag) — often used alongside CD to control what's actually live
+- [canary-deployment](/article/canary-deployment) — a deployment strategy built on top of CD
+- [linting](/article/linting) — usually one of the first steps in a CI pipeline

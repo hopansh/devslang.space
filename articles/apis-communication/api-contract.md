@@ -36,5 +36,5 @@ Without a clear contract, every API consumer is guessing. Contract-first develop
 
 ## related terms
 
-- [breaking-change](./breaking-change.md) — what happens when the contract is violated
-- [versioning-api](./versioning-api.md) — how contracts evolve safely
+- [breaking-change](/article/breaking-change) — what happens when the contract is violated
+- [versioning-api](/article/versioning-api) — how contracts evolve safely

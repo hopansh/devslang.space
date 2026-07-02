@@ -37,6 +37,6 @@ Big-bang migrations from monolith to microservices fail often. A modular monolit
 
 ## related terms
 
-- [monolith](./monolith.md) — where you start
-- [microservices](./microservices.md) — where you might end up
-- [hexagonal-architecture](./hexagonal-architecture.md) — pairs well here
+- [monolith](/article/monolith) — where you start
+- [microservices](/article/microservices) — where you might end up
+- [hexagonal-architecture](/article/hexagonal-architecture) — pairs well here

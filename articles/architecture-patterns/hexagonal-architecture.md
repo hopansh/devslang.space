@@ -37,5 +37,5 @@ Testability and replaceability. When business logic is decoupled from infrastruc
 
 ## related terms
 
-- [modular-monolith](./modular-monolith.md) — a good host for this pattern
-- [cqrs](./cqrs.md) — often paired in complex domains
+- [modular-monolith](/article/modular-monolith) — a good host for this pattern
+- [cqrs](/article/cqrs) — often paired in complex domains

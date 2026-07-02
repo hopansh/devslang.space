@@ -36,5 +36,5 @@ CSR is the right call for internal tools, dashboards, and authenticated apps whe
 
 ## related terms
 
-- [ssr](./ssr.md) — the alternative, better for SEO-sensitive pages
-- [hydration](./hydration.md) — not needed in pure CSR since there's no server HTML to attach to
+- [ssr](/article/ssr) — the alternative, better for SEO-sensitive pages
+- [hydration](/article/hydration) — not needed in pure CSR since there's no server HTML to attach to

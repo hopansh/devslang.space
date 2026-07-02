@@ -35,4 +35,4 @@ Recognizing the difference between genuine high-leverage engineering and someone
 
 ## related terms
 
-- [bus-factor](./bus-factor.md) — a related risk concept when a team over-relies on one person
+- [bus-factor](/article/bus-factor) — a related risk concept when a team over-relies on one person

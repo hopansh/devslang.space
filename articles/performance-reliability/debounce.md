@@ -36,4 +36,4 @@ Without debouncing, rapid user input can flood your backend with redundant reque
 
 ## related terms
 
-- [throttle](./throttle.md) — the closely related but functionally different cousin
+- [throttle](/article/throttle) — the closely related but functionally different cousin

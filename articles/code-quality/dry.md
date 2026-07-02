@@ -36,5 +36,5 @@ Violating DRY means bugs get fixed in one place and silently persist in the copi
 
 ## related terms
 
-- [yagni](./yagni.md) — the principle that keeps DRY from going too far
-- [code-smell](./code-smell.md) — duplication is one of the most common smells
+- [yagni](/article/yagni) — the principle that keeps DRY from going too far
+- [code-smell](/article/code-smell) — duplication is one of the most common smells

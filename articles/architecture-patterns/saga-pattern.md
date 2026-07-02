@@ -37,5 +37,5 @@ If you're in microservices and money moves between services, you need a strategy
 
 ## related terms
 
-- [event-sourcing](./event-sourcing.md) — sagas are often event-driven
-- [microservices](./microservices.md) — where sagas become necessary
+- [event-sourcing](/article/event-sourcing) — sagas are often event-driven
+- [microservices](/article/microservices) — where sagas become necessary

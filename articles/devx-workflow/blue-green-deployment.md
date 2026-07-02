@@ -35,4 +35,4 @@ Blue-green gives you the fastest possible rollback path of any deployment strate
 
 ## related terms
 
-- [canary-deployment](./canary-deployment.md) — a gradual alternative to blue-green's instant switch
+- [canary-deployment](/article/canary-deployment) — a gradual alternative to blue-green's instant switch

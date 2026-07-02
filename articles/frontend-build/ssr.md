@@ -36,5 +36,5 @@ SSR is genuinely valuable for public, SEO-sensitive pages and meaningfully overk
 
 ## related terms
 
-- [csr](./csr.md) — the alternative approach
-- [hydration](./hydration.md) — the step that follows SSR
+- [csr](/article/csr) — the alternative approach
+- [hydration](/article/hydration) — the step that follows SSR

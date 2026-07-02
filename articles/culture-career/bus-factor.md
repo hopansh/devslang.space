@@ -36,4 +36,4 @@ A low bus factor is a real organizational risk, not just a joke. Identifying it 
 
 ## related terms
 
-- [10x-developer](./10x-developer.md) — sometimes the same person creating both immense value and a low bus factor simultaneously
+- [10x-developer](/article/10x-developer) — sometimes the same person creating both immense value and a low bus factor simultaneously

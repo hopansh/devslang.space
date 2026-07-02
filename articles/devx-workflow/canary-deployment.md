@@ -36,5 +36,5 @@ A canary deployment turns "deploy and hope" into "deploy and verify," limiting t
 
 ## related terms
 
-- [feature-flag](./feature-flag.md) — a code-level version of the same gradual-rollout philosophy
-- [blue-green-deployment](./blue-green-deployment.md) — a different, instant-switch deployment strategy
+- [feature-flag](/article/feature-flag) — a code-level version of the same gradual-rollout philosophy
+- [blue-green-deployment](/article/blue-green-deployment) — a different, instant-switch deployment strategy

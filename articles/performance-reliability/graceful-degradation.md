@@ -37,5 +37,5 @@ A non-critical feature failing should never take down a critical one. Graceful d
 
 ## related terms
 
-- [circuit-breaker](./circuit-breaker.md) — a mechanism that enables graceful degradation
-- [defensive-programming](../code-quality/defensive-programming.md) — the broader mindset this fits into
+- [circuit-breaker](/article/circuit-breaker) — a mechanism that enables graceful degradation
+- [defensive-programming](/article/defensive-programming) — the broader mindset this fits into

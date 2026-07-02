@@ -37,6 +37,6 @@ Race conditions are some of the hardest bugs to find because they're non-determi
 
 ## related terms
 
-- [idempotent](../apis-communication/idempotent.md) — helps mitigate damage from duplicate concurrent requests
-- [defensive-programming](../code-quality/defensive-programming.md) — locking and atomic operations are the usual fix
-- [optimistic-update](./optimistic-update.md) — a place where race conditions commonly sneak in
+- [idempotent](/article/idempotent) — helps mitigate damage from duplicate concurrent requests
+- [defensive-programming](/article/defensive-programming) — locking and atomic operations are the usual fix
+- [optimistic-update](/article/optimistic-update) — a place where race conditions commonly sneak in

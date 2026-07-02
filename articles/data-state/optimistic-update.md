@@ -37,5 +37,5 @@ Optimistic updates are the difference between an app that feels instant and one 
 
 ## related terms
 
-- [eventual-consistency](./eventual-consistency.md) — a related "things will catch up" concept
-- [race-condition](./race-condition.md) — a risk if multiple optimistic updates overlap
+- [eventual-consistency](/article/eventual-consistency) — a related "things will catch up" concept
+- [race-condition](/article/race-condition) — a risk if multiple optimistic updates overlap

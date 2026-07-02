@@ -37,5 +37,5 @@ Big-bang rewrites fail more often than they succeed. Strangler fig lets you migr
 
 ## related terms
 
-- [monolith](./monolith.md) — typically what's being strangled
-- [microservices](./microservices.md) — often what's replacing it
+- [monolith](/article/monolith) — typically what's being strangled
+- [microservices](/article/microservices) — often what's replacing it

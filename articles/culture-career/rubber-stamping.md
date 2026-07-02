@@ -36,5 +36,5 @@ Rubber stamping defeats the entire purpose of code review while looking, on pape
 
 ## related terms
 
-- [bikeshedding](./bikeshedding.md) — the opposite failure mode, too much scrutiny on the wrong thing
-- [hippo-effect](./hippo-effect.md) — a related way surface-level agreement substitutes for real evaluation
+- [bikeshedding](/article/bikeshedding) — the opposite failure mode, too much scrutiny on the wrong thing
+- [hippo-effect](/article/hippo-effect) — a related way surface-level agreement substitutes for real evaluation

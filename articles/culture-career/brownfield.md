@@ -37,6 +37,6 @@ Most real engineering value gets created in brownfield work — carefully improv
 
 ## related terms
 
-- [greenfield](./greenfield.md) — the rarer, shinier alternative
-- [technical-debt](../code-quality/technical-debt.md) — what most brownfield projects are full of
-- [spaghetti-code](./spaghetti-code.md) — the worst-case version of inherited brownfield code
+- [greenfield](/article/greenfield) — the rarer, shinier alternative
+- [technical-debt](/article/technical-debt) — what most brownfield projects are full of
+- [spaghetti-code](/article/spaghetti-code) — the worst-case version of inherited brownfield code

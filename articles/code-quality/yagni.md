@@ -36,5 +36,5 @@ Premature generalization is one of the most common ways engineers waste time and
 
 ## related terms
 
-- [dry](./dry.md) — DRY and YAGNI pull in opposite directions and both are right sometimes
-- [mvp](../architecture-patterns/mvp.md) — YAGNI is the engineering version of MVP thinking
+- [dry](/article/dry) — DRY and YAGNI pull in opposite directions and both are right sometimes
+- [mvp](/article/mvp) — YAGNI is the engineering version of MVP thinking

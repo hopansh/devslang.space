@@ -35,4 +35,4 @@ Recognizing you're yak shaving lets you make a conscious decision: push through 
 
 ## related terms
 
-- [bikeshedding](./bikeshedding.md) — a related but distinct way time gets lost on tangents
+- [bikeshedding](/article/bikeshedding) — a related but distinct way time gets lost on tangents

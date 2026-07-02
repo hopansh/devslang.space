@@ -37,5 +37,5 @@ Minification is a meaningful performance win for users, especially on slow conne
 
 ## related terms
 
-- [bundler](./bundler.md) — where minification happens
-- [source-map](./source-map.md) — what saves you when minified code breaks
+- [bundler](/article/bundler) — where minification happens
+- [source-map](/article/source-map) — what saves you when minified code breaks

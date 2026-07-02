@@ -37,5 +37,5 @@ For domains where history matters (finance, healthcare, legal), event sourcing i
 
 ## related terms
 
-- [cqrs](./cqrs.md) — almost always paired together
-- [saga-pattern](./saga-pattern.md) — for managing distributed events
+- [cqrs](/article/cqrs) — almost always paired together
+- [saga-pattern](/article/saga-pattern) — for managing distributed events

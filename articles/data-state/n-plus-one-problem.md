@@ -37,5 +37,5 @@ N+1 queries are nearly invisible until you have real data volume, and then they'
 
 ## related terms
 
-- [pagination](../apis-communication/pagination.md) — doesn't fix N+1, but limits its blast radius
-- [normalization](./normalization.md) — the database design choice that makes joins necessary in the first place
+- [pagination](/article/pagination) — doesn't fix N+1, but limits its blast radius
+- [normalization](/article/normalization) — the database design choice that makes joins necessary in the first place

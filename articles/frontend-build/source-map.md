@@ -37,5 +37,5 @@ Debugging production issues without source maps means staring at minified variab
 
 ## related terms
 
-- [minification](./minification.md) — the thing source maps exist to undo, for debugging purposes only
-- [bundler](./bundler.md) — generates source maps as part of the build
+- [minification](/article/minification) — the thing source maps exist to undo, for debugging purposes only
+- [bundler](/article/bundler) — generates source maps as part of the build

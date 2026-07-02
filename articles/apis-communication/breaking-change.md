@@ -37,6 +37,6 @@ Breaking changes done carelessly erode trust in your API and create firefighting
 
 ## related terms
 
-- [backward-compatible](./backward-compatible.md) — the thing a breaking change violates
-- [semantic-versioning](../devx-workflow/semantic-versioning.md) — how you're supposed to signal these
-- [api-contract](./api-contract.md) — what gets violated
+- [backward-compatible](/article/backward-compatible) — the thing a breaking change violates
+- [semantic-versioning](/article/semantic-versioning) — how you're supposed to signal these
+- [api-contract](/article/api-contract) — what gets violated

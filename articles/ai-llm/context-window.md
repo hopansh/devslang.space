@@ -35,4 +35,4 @@ Understanding context window limits (and their practical, not just theoretical, 
 
 ## related terms
 
-- [rag](./rag.md) — a strategy for working within context limits by retrieving only what's relevant
+- [rag](/article/rag) — a strategy for working within context limits by retrieving only what's relevant

@@ -35,4 +35,4 @@ Scaffolding tools eliminate repetitive setup work and enforce consistent project
 
 ## related terms
 
-- [hot-reload](./hot-reload.md) — another foundational DevX convenience
+- [hot-reload](/article/hot-reload) — another foundational DevX convenience

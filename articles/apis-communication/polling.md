@@ -36,5 +36,5 @@ Polling works fine for a prototype or low-traffic feature. It falls over fast at
 
 ## related terms
 
-- [webhook](./webhook.md) — the more efficient alternative
-- [long-polling](./long-polling.md) — the middle-ground compromise
+- [webhook](/article/webhook) — the more efficient alternative
+- [long-polling](/article/long-polling) — the middle-ground compromise

@@ -40,6 +40,6 @@ Companies waste months building features nobody asked for. MVP forces the questi
 
 ## related terms
 
-- [yagni](../code-quality/yagni.md) — the principle that makes MVP possible
-- [greenfield](../culture-career/greenfield.md) — where MVP projects start
-- [technical-debt](../code-quality/technical-debt.md) — what MVP leaves behind
+- [yagni](/article/yagni) — the principle that makes MVP possible
+- [greenfield](/article/greenfield) — where MVP projects start
+- [technical-debt](/article/technical-debt) — what MVP leaves behind

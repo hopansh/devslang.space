@@ -36,4 +36,4 @@ Get pagination wrong and your API either falls over under load or returns incons
 
 ## related terms
 
-- [n-plus-one-problem](../data-state/n-plus-one-problem.md) — another data-fetching trap
+- [n-plus-one-problem](/article/n-plus-one-problem) — another data-fetching trap

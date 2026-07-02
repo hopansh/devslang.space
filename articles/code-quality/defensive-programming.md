@@ -36,5 +36,5 @@ Production traffic finds every edge case you didn't think of, eventually. Defens
 
 ## related terms
 
-- [graceful-degradation](../performance-reliability/graceful-degradation.md) — defensive programming applied to system-wide failure
-- [race-condition](../data-state/race-condition.md) — one of the things defensive code should account for
+- [graceful-degradation](/article/graceful-degradation) — defensive programming applied to system-wide failure
+- [race-condition](/article/race-condition) — one of the things defensive code should account for

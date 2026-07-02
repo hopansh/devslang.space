@@ -36,5 +36,5 @@ Polyrepo isn't wrong — it's a tradeoff. Small teams with clear service boundar
 
 ## related terms
 
-- [monorepo](./monorepo.md) — the alternative that sounds better until you configure it
-- [microservices](./microservices.md) — often paired with polyrepo
+- [monorepo](/article/monorepo) — the alternative that sounds better until you configure it
+- [microservices](/article/microservices) — often paired with polyrepo

@@ -37,5 +37,5 @@ Webhooks are how most modern integrations work. Get the retry handling and signa
 
 ## related terms
 
-- [polling](./polling.md) — the naive alternative webhooks replace
-- [long-polling](./long-polling.md) — the in-between option
+- [polling](/article/polling) — the naive alternative webhooks replace
+- [long-polling](/article/long-polling) — the in-between option

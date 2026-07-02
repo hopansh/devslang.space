@@ -38,6 +38,6 @@ Code splitting is one of the highest-leverage frontend performance improvements 
 
 ## related terms
 
-- [bundler](./bundler.md) — where code splitting happens
-- [lazy-loading](./lazy-loading.md) — the runtime behavior that code splitting enables
-- [tree-shaking](./tree-shaking.md) — a complementary bundle-size optimization
+- [bundler](/article/bundler) — where code splitting happens
+- [lazy-loading](/article/lazy-loading) — the runtime behavior that code splitting enables
+- [tree-shaking](/article/tree-shaking) — a complementary bundle-size optimization

@@ -36,5 +36,5 @@ A botched migration is one of the few mistakes in software that can cause genuin
 
 ## related terms
 
-- [seeding](./seeding.md) — often run right after a migration to populate test data
-- [backward-compatible](../apis-communication/backward-compatible.md) — migrations should ideally preserve this during rollout
+- [seeding](/article/seeding) — often run right after a migration to populate test data
+- [backward-compatible](/article/backward-compatible) — migrations should ideally preserve this during rollout

@@ -36,5 +36,5 @@ Used well, lazy loading meaningfully improves initial load time. Used carelessly
 
 ## related terms
 
-- [code-splitting](./code-splitting.md) — the bundler-level version of this idea
-- [cold-start](../performance-reliability/cold-start.md) — a related "wakes up slowly" problem in serverless
+- [code-splitting](/article/code-splitting) — the bundler-level version of this idea
+- [cold-start](/article/cold-start) — a related "wakes up slowly" problem in serverless

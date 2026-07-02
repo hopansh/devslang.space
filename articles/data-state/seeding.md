@@ -35,4 +35,4 @@ Good seeding catches bugs before they ever reach a real user. Sparse, lazy seedi
 
 ## related terms
 
-- [migration](./migration.md) — usually runs right before seeding, to create the schema first
+- [migration](/article/migration) — usually runs right before seeding, to create the schema first

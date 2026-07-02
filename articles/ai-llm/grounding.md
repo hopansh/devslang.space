@@ -36,5 +36,5 @@ Grounding is the broader strategy underlying most serious attempts to make LLM o
 
 ## related terms
 
-- [rag](./rag.md) — the most common concrete implementation of grounding
-- [hallucination](./hallucination.md) — the problem grounding exists to solve
+- [rag](/article/rag) — the most common concrete implementation of grounding
+- [hallucination](/article/hallucination) — the problem grounding exists to solve

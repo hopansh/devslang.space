@@ -36,4 +36,4 @@ Vibe coding is a genuinely new way of working that's reshaping what "knowing how
 
 ## related terms
 
-- [agentic-loop](./agentic-loop.md) — the underlying mechanism that makes extended vibe coding sessions possible
+- [agentic-loop](/article/agentic-loop) — the underlying mechanism that makes extended vibe coding sessions possible

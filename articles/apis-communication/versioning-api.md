@@ -37,5 +37,5 @@ Without versioning, every change to a public or widely-consumed API is a gamble.
 
 ## related terms
 
-- [breaking-change](./breaking-change.md) — the thing versioning protects against
-- [backward-compatible](./backward-compatible.md) — versioning is one way to maintain this
+- [breaking-change](/article/breaking-change) — the thing versioning protects against
+- [backward-compatible](/article/backward-compatible) — versioning is one way to maintain this

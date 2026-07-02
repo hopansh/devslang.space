@@ -36,5 +36,5 @@ Codebases rot without regular refactoring. But "refactor" is also sometimes used
 
 ## related terms
 
-- [technical-debt](./technical-debt.md) — what refactoring pays down
-- [code-smell](./code-smell.md) — the signal that triggers refactoring
+- [technical-debt](/article/technical-debt) — what refactoring pays down
+- [code-smell](/article/code-smell) — the signal that triggers refactoring

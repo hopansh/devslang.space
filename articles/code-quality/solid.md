@@ -37,5 +37,5 @@ SOLID isn't gospel, and rigid adherence to all five letters in every context cre
 
 ## related terms
 
-- [hexagonal-architecture](../architecture-patterns/hexagonal-architecture.md) — built on dependency inversion
-- [code-smell](./code-smell.md) — SOLID violations often show up as smells
+- [hexagonal-architecture](/article/hexagonal-architecture) — built on dependency inversion
+- [code-smell](/article/code-smell) — SOLID violations often show up as smells

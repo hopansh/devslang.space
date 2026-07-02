@@ -36,4 +36,4 @@ Almost every performance optimization that involves caching eventually creates a
 
 ## related terms
 
-- [eventual-consistency](../data-state/eventual-consistency.md) — a closely related "staleness is expected" concept
+- [eventual-consistency](/article/eventual-consistency) — a closely related "staleness is expected" concept

@@ -36,5 +36,5 @@ Normalization is the right default for data integrity. Knowing when and where to
 
 ## related terms
 
-- [denormalization](./denormalization.md) — the deliberate, pragmatic opposite
-- [n-plus-one-problem](./n-plus-one-problem.md) — a common cost of fully normalized schemas
+- [denormalization](/article/denormalization) — the deliberate, pragmatic opposite
+- [n-plus-one-problem](/article/n-plus-one-problem) — a common cost of fully normalized schemas

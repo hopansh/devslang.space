@@ -37,6 +37,6 @@ Recognizing code smells early lets you fix structural problems before they calci
 
 ## related terms
 
-- [refactoring](./refactoring.md) — the cure for a smell
-- [cyclomatic-complexity](./cyclomatic-complexity.md) — a way to measure one specific smell
-- [spaghetti-code](../culture-career/spaghetti-code.md) — what smells become if ignored long enough
+- [refactoring](/article/refactoring) — the cure for a smell
+- [cyclomatic-complexity](/article/cyclomatic-complexity) — a way to measure one specific smell
+- [spaghetti-code](/article/spaghetti-code) — what smells become if ignored long enough

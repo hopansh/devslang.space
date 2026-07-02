@@ -36,5 +36,5 @@ ORMs dramatically speed up everyday development but can hide what's actually hap
 
 ## related terms
 
-- [n-plus-one-problem](./n-plus-one-problem.md) — the classic ORM-induced performance trap
-- [migration](./migration.md) — most ORMs also manage your schema migrations
+- [n-plus-one-problem](/article/n-plus-one-problem) — the classic ORM-induced performance trap
+- [migration](/article/migration) — most ORMs also manage your schema migrations

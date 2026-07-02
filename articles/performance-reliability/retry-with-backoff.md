@@ -37,5 +37,5 @@ Retrying without backoff during an outage can turn a temporary blip into a susta
 
 ## related terms
 
-- [idempotent](../apis-communication/idempotent.md) — required for retries to be safe at all
-- [circuit-breaker](./circuit-breaker.md) — the next level of protection when retries aren't enough
+- [idempotent](/article/idempotent) — required for retries to be safe at all
+- [circuit-breaker](/article/circuit-breaker) — the next level of protection when retries aren't enough

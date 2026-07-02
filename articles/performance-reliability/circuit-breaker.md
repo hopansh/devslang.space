@@ -38,5 +38,5 @@ Without a circuit breaker, one slow or failing dependency can exhaust connection
 
 ## related terms
 
-- [retry-with-backoff](./retry-with-backoff.md) — often paired with circuit breakers
-- [graceful-degradation](./graceful-degradation.md) — what happens after the circuit trips
+- [retry-with-backoff](/article/retry-with-backoff) — often paired with circuit breakers
+- [graceful-degradation](/article/graceful-degradation) — what happens after the circuit trips

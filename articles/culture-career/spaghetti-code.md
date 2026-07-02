@@ -37,6 +37,6 @@ Spaghetti code is expensive in a very specific way: every change takes longer an
 
 ## related terms
 
-- [code-smell](../code-quality/code-smell.md) — the early warning signs that precede full spaghetti
-- [technical-debt](../code-quality/technical-debt.md) — spaghetti code is often the visible result of accumulated debt
-- [brownfield](./brownfield.md) — where you're most likely to encounter it
+- [code-smell](/article/code-smell) — the early warning signs that precede full spaghetti
+- [technical-debt](/article/technical-debt) — spaghetti code is often the visible result of accumulated debt
+- [brownfield](/article/brownfield) — where you're most likely to encounter it

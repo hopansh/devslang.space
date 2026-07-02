@@ -35,4 +35,4 @@ Hot reload is one of those invisible productivity multipliers — easy to take f
 
 ## related terms
 
-- [scaffolding](./scaffolding.md) — another DevX convenience from the same era of tooling improvements
+- [scaffolding](/article/scaffolding) — another DevX convenience from the same era of tooling improvements

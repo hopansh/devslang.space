@@ -36,5 +36,5 @@ Denormalization is one of the most reliable ways to fix read performance at scal
 
 ## related terms
 
-- [normalization](./normalization.md) — the principle being deliberately broken
-- [cqrs](../architecture-patterns/cqrs.md) — denormalized read models taken to an architectural extreme
+- [normalization](/article/normalization) — the principle being deliberately broken
+- [cqrs](/article/cqrs) — denormalized read models taken to an architectural extreme

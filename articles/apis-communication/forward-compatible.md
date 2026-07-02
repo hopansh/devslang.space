@@ -36,5 +36,5 @@ You can't force every user to update instantly. Old clients exist in the wild fo
 
 ## related terms
 
-- [backward-compatible](./backward-compatible.md) — the more common and easier direction
-- [breaking-change](./breaking-change.md) — usually a forward-compatibility failure
+- [backward-compatible](/article/backward-compatible) — the more common and easier direction
+- [breaking-change](/article/breaking-change) — usually a forward-compatibility failure

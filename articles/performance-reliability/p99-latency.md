@@ -36,4 +36,4 @@ Optimizing for average latency while ignoring the tail means you can ship someth
 
 ## related terms
 
-- [cold-start](./cold-start.md) — a common cause of bad tail latency in serverless systems
+- [cold-start](/article/cold-start) — a common cause of bad tail latency in serverless systems

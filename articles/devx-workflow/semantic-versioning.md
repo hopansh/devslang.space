@@ -36,5 +36,5 @@ Semantic versioning is the entire dependency ecosystem's shared language for "is
 
 ## related terms
 
-- [breaking-change](../apis-communication/breaking-change.md) — what triggers a major version bump
-- [backward-compatible](../apis-communication/backward-compatible.md) — what minor and patch bumps are supposed to preserve
+- [breaking-change](/article/breaking-change) — what triggers a major version bump
+- [backward-compatible](/article/backward-compatible) — what minor and patch bumps are supposed to preserve

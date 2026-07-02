@@ -36,5 +36,5 @@ Recognizing bikeshedding in real time lets you redirect a meeting back toward th
 
 ## related terms
 
-- [yak-shaving](./yak-shaving.md) — a different but related way meetings and tasks go sideways
-- [rubber-stamping](./rubber-stamping.md) — the opposite failure mode — too little scrutiny instead of too much on the wrong thing
+- [yak-shaving](/article/yak-shaving) — a different but related way meetings and tasks go sideways
+- [rubber-stamping](/article/rubber-stamping) — the opposite failure mode — too little scrutiny instead of too much on the wrong thing

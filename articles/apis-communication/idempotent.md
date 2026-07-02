@@ -37,5 +37,5 @@ If you don't think about idempotency, retries (which will happen — networks ar
 
 ## related terms
 
-- [backward-compatible](./backward-compatible.md) — another API reliability concern
-- [retry-with-backoff](../performance-reliability/retry-with-backoff.md) — the thing that makes idempotency necessary
+- [backward-compatible](/article/backward-compatible) — another API reliability concern
+- [retry-with-backoff](/article/retry-with-backoff) — the thing that makes idempotency necessary
